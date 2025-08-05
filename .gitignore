@@ -1,0 +1,6 @@
+exima_pro_venv/ *
+pycache/ *
+.vscode/ *
+*.log
+*.db
+*.csv
